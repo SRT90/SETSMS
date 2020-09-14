@@ -25,7 +25,7 @@ echo -e "${verde}
 function PHONE {
 echo -e -n "${verde}
 ┌════════════════════════════┐
-█ ${blanco}INGRESE EL NÚMERO OBJETIVO ${verde}█
+█ ${blanco}T90 hacker INGRESE EL NÚMERO OBJETIVO ${verde}█
 └════════════════════════════┘
 ┃    ┌══════════════════════════┐
 └═>>>█ EJEMPLO => ${blanco}+593981480757 ${verde}█
